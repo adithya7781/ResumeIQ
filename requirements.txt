@@ -6,4 +6,4 @@ torch
 torchvision
 pypdf
 python-docx
-streamlit-cookies-manager
+streamlit-cookies-manager-v2
