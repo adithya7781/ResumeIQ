@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+sentence-transformers
+torch
+torchvision
+pypdf
+python-docx
+streamlit-cookies-manager
